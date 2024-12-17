@@ -1,0 +1,30 @@
+  [
+      {
+        "customerId": "1",
+        "name": "John Doe",
+        "transactions": [
+          { "date": "2024-10-01", "amount": 120 },
+          { "date": "2024-10-15", "amount": 75 },
+          { "date": "2024-11-02", "amount": 200 }
+        ]
+      },
+      {
+        "customerId": "2",
+        "name": "Jane Smith",
+        "transactions": [
+          { "date": "2024-10-10", "amount": 51 },
+          { "date": "2024-11-12", "amount": 150 },
+          { "date": "2024-12-01", "amount": 300 }
+        ]
+      },
+      {
+        "customerId": "3",
+        "name": "Will Smith",
+        "transactions": [
+          { "date": "2024-10-10", "amount": 70 },
+          { "date": "2024-11-12", "amount": 150 },
+          { "date": "2024-12-01", "amount": 51 }
+        ]
+      }
+    ]
+    
